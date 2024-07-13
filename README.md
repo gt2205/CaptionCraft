@@ -2,14 +2,9 @@ The objective of the project is to predict the captions for the input image. The
 
 Environment: Kaggle
 
-Libraries
-numpy
-matplotlib
-keras
-tensorflow
-nltk
-Neural Network
-VGG16 Network
-CNN-LSTM Network
+Dataset:Flickr 8k Dataset
+
+Libraries:numpy,matplotlib,keras,tensorflow
+Neural Network:VGG16 Network,CNN-LSTM Network
 BLEU-1 Score: 0.544 BLEU-2 Score: 0.319
 
